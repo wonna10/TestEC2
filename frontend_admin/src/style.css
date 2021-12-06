@@ -1,0 +1,27 @@
+label.MuiFormLabel-root, label.MuiFormLabel-root.Mui-focused, label.MuiFormLabel-root.Mui-disabled {
+    color: white;
+}
+
+div>div.MuiFilledInput-underline:before, div>div.MuiFilledInput-underline:hover:before {
+    border-bottom-color: white;
+}
+
+div>div.MuiFilledInput-underline:after {
+    border-color: white;
+}
+
+textarea.MuiInputBase-inputMultiline {
+    color: white;
+}
+
+div.MuiFilledInput-underline.Mui-disabled:before {
+    border-bottom: 1px solid white;
+}
+
+div.MuiInput-underline:before, div.MuiInput-underline:hover:not(.Mui-disabled):before {
+    border-bottom: 1px solid white
+}
+
+div.MuiInput-underline:after {
+    border-bottom-color: white
+}

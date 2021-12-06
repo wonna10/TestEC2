@@ -1,0 +1,6 @@
+First account:
+    Email: sohwk@gmail.com
+    Password: swkswk
+
+    Email: admin@example.com
+    Password: adminpassword
